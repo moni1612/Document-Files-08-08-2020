@@ -17,12 +17,12 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Source Code Management'
-copyright = '2020, Harideep'
-author = 'Harideep'
+project = 'Github management'
+copyright = '2020, Monisha'
+author = 'Monisha'
 
 # The full version, including alpha/beta/rc tags
-release = '1'
+release = '1.1'
 
 
 # -- General configuration ---------------------------------------------------
